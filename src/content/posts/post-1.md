@@ -1,15 +1,14 @@
 ---
 title: A simple Trick to Stay Ahead in Marketing
 description: meta description
-date: 2022-04-01T05:00:00.000Z
+date: '2022-04-01T05:00:00.000Z'
 image: /images/posts/01.jpg
 categories:
   - art
 authors:
-  - Mark Dinn
+  - Fahim Shahrier
 tags:
-  - diy
-  - toy
+  - analysis
 draft: false
 ---
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
