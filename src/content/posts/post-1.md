@@ -2,7 +2,7 @@
 title: A simple Trick to Stay Ahead in Marketing
 description: meta description
 date: '2022-04-01T05:00:00.000Z'
-image: /images/posts/01.jpg
+image: media/src/content/posts/standout.jpg
 categories:
   - art
 authors:
