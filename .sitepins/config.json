@@ -1,7 +1,7 @@
 {
   "media": {
     "root": "src/content/posts",
-    "public": "public"
+    "public": "src"
   },
   "content": {
     "root": "src"
@@ -9,9 +9,7 @@
   "code": {
     "root": "src/content"
   },
-  "themeConfig": [
-    "src/content/posts"
-  ],
+  "themeConfig": [],
   "arrangement": [],
   "showCommitModal": false
 }
