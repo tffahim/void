@@ -1,7 +1,7 @@
 {
   "media": {
     "root": "public/images/posts",
-    "public": "public/images"
+    "public": "public/images/posts"
   },
   "content": {
     "root": "src"
@@ -10,7 +10,7 @@
     "root": "public/images"
   },
   "themeConfig": [
-    "public/images"
+    "public/images/posts"
   ],
   "arrangement": [],
   "showCommitModal": false
