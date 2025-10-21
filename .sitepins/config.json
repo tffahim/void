@@ -1,7 +1,7 @@
 {
   "media": {
     "root": "public",
-    "public": "public/images"
+    "public": "public"
   },
   "content": {
     "root": "src"
