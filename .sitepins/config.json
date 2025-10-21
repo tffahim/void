@@ -4,10 +4,10 @@
     "public": "src"
   },
   "content": {
-    "root": "src"
+    "root": "public"
   },
   "code": {
-    "root": "src/content"
+    "root": "public/images"
   },
   "themeConfig": [],
   "arrangement": [],
