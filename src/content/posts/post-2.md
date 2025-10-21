@@ -1,7 +1,7 @@
 ---
 title: Is it working?
 description: meta description
-date: 2022-04-02T05:00:00.000Z
+date: 2025-10-21T05:00:00.000Z
 image: /images/posts/02.jpg
 categories:
   - development
