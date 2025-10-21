@@ -1,13 +1,13 @@
 {
   "media": {
     "root": "public/images/posts",
-    "public": "public/images/posts"
+    "public": "public/images"
   },
   "content": {
-    "root": "src/config"
+    "root": "public"
   },
   "code": {
-    "root": "public/images"
+    "root": ""
   },
   "themeConfig": [
     "public/images/posts"
