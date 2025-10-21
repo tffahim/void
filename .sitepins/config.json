@@ -7,7 +7,7 @@
     "root": "public"
   },
   "code": {
-    "root": ""
+    "root": "public/images/posts"
   },
   "themeConfig": [
     "public/images/posts"
