@@ -9,7 +9,9 @@
   "code": {
     "root": "public/images"
   },
-  "themeConfig": [],
+  "themeConfig": [
+    "public/images"
+  ],
   "arrangement": [],
   "showCommitModal": false
 }
